@@ -26,9 +26,9 @@ This is a real-time chat application built with React and Appwrite. It provides 
   
   Create a file named .env in the root directory of your project and add the following Appwrite configuration:
   
-  VITE_API_ENDPOINT=https://[YOUR_APPWRITE_ENDPOINT]
-  VITE_PROJECT_ID=[YOUR_PROJECT_ID]
-  VITE_DATABASE_ID=[YOUR_DATABASE_ID]
-  VITE_COLLECTION_ID_MESSAGES=[YOUR_COLLECTION_ID_MESSAGES]
+  - VITE_API_ENDPOINT=https://[YOUR_APPWRITE_ENDPOINT]
+  - VITE_PROJECT_ID=[YOUR_PROJECT_ID]
+  - VITE_DATABASE_ID=[YOUR_DATABASE_ID]
+  - VITE_COLLECTION_ID_MESSAGES=[YOUR_COLLECTION_ID_MESSAGES]
 
 - Run npm run dev to launch the local server
