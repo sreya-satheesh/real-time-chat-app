@@ -1,6 +1,6 @@
 # Real-Time Chat App with React & Appwrite
 
-https://github.com/user-attachments/assets/327c4bcc-06ef-423a-b907-ae5c41822f49
+https://github.com/user-attachments/assets/2df68d1d-da24-4ffb-bdaa-3b8aaa5ac232
 
 This is a real-time chat application built with React and Appwrite. It provides features like user authentication, message sending, and real-time updates using Appwrite.
 
