@@ -1,6 +1,6 @@
 # Real-Time Chat App with React & Appwrite
 
-![screen-capture (online-video-cutter com) (1)](https://github.com/user-attachments/assets/aac2c574-c729-4671-ba5f-23e907ece013)
+https://github.com/user-attachments/assets/327c4bcc-06ef-423a-b907-ae5c41822f49
 
 This is a real-time chat application built with React and Appwrite. It provides features like user authentication, message sending, and real-time updates using Appwrite.
 
